@@ -3,7 +3,7 @@ leftnav:
   name: Instructor Insights
   url: /pages/instructor-insights
   weight: 10
-- identifier: external-76e308014246498f9a2316790efaa170
+- identifier: external-1f80b2823d2547ae904f8e099a19c5da
   name: Online Publication
   url: https://openlearninglibrary.mit.edu/courses/course-v1:OCW+Pre-7.01+1T2020/about
   weight: 1000
