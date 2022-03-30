@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 511b29ee-4ef7-afe6-d23d-0c59929b24d1
 resourcetype: Image
 title: honeybees_300.jpg
 uid: 7d81b47c-40a6-cea0-51dc-847c132ea2bd

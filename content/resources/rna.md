@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 511b29ee-4ef7-afe6-d23d-0c59929b24d1
 resourcetype: Image
 title: RNA.jpg
 uid: cdde87d1-acb8-d905-50e3-7d1c95a73c6f

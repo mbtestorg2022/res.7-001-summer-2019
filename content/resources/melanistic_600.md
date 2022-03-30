@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 511b29ee-4ef7-afe6-d23d-0c59929b24d1
 resourcetype: Image
 title: melanistic_600.png
 uid: e3542521-6bb2-14e5-957f-750b4354a642

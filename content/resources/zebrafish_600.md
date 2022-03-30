@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 511b29ee-4ef7-afe6-d23d-0c59929b24d1
 resourcetype: Image
 title: zebrafish_600.jpg
 uid: 602d1d05-21df-c9b1-14f3-07130eef338d
